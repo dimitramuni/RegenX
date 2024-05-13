@@ -37,15 +37,16 @@ _INSTRUCTIONS: Below are the suggested sections to include in your README file t
 
 ### The issue we are hoping to solve
 
-REPLACE THIS SENTENCE with a short description, 2-3 sentences in length, of the specific sustainability problem your solution is meant to address.
+Women and underserved communities face difficulties with access to land and land ownership. This is one major, but certainly not only, reason they have difficulty with access to financial services.
+
 
 ### How our technology solution can help
 
-REPLACE THIS SENTENCE with a short description of your team's solution, in about 10 words.
+An online platform connecting land owners with land seekers, offering features like search tools, detailed property information, and AI-powered legal document assistance. It aims to provide land access even without ownership, potentially leading to lease-to-own opportunities and increased mobility for farmers.
 
 ### Our idea
 
-INSTRUCTIONS: Replace this paragraph with a longer description of your solution. In about 500 words, describe your solution in more detail. Include the real-world problem you identified, describe the technological solution you have created, and explain how it’s an improvement over existing solutions. You can supply additional documentation in this source code repository that you link to as well.
+This platform connects land owners with land seekers, creating income opportunities for landowners and overcoming access barriers for aspiring and experienced farmers, especially women and underserved communities. By ensuring fair agreements and transparency, we empower a more inclusive and equitable agricultural landscape.
 
 More detail is available in our [description document](./docs/DESCRIPTION.md).
 
